@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sdmcraft/nodedemo/issues"
   },
-  "homepage": "https://github.com/sdmcraft/nodedemo#readme"
+  "homepage": "https://github.com/sdmcraft/nodedemo#readme",
+  "dependencies": {
+    "nan": "^2.3.3"
+  }
 }

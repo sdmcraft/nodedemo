@@ -2,7 +2,8 @@
    "targets" : [
       {
          "target_name": "nodecpptest",
-         "sources": ["main.cpp"]
+         "sources": ["main.cpp"],
+         "libraries": ["-lshared"]         
       }
    ]
 }
